@@ -1,1 +1,3 @@
-# my_cv
+# CV
+
+Craig Macsemchuk's curriculum vitae
